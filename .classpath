@@ -3,9 +3,9 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/Samin/Downloads/openauth-1.0.3-SNAPSHOT.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Samin/Downloads/swinger-1.0.0-BETA.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Samin/Downloads/openlauncherlib-2.1-SNAPSHOT.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Samin/Downloads/gson-2.3.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Samin/Downloads/s-update-3.1.0-BETA (1).jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_221"/>
+	<classpathentry kind="lib" path="C:/Users/Samin/Downloads/openlauncherlib-3.0.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
